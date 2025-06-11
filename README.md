@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Heyy I'm Jaskeerat </h1>
-<h3 align="center">AI Enthusiast | ML Developer | Pythonista 🐍</h3>
+<h3 align="center">AI Enthusiast | ML Developer </h3>
 
 
 - 🌱 I’m learning **OpenCV, FastAPI, and Generative AI**
