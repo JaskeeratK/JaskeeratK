@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jaskeerat </h1>
+<h1 align="center">Heyy I'm Jaskeerat </h1>
 <h3 align="center">AI Enthusiast | ML Developer | Pythonista 🐍</h3>
 
 
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ---
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 
 
 ### 🧰 Tech Stack
