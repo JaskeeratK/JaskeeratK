@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **JaskeeratK/JaskeeratK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaskeerat-kaur-b2227b320) | thejaskeerat@gmail.com
 
 ---
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
