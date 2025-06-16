@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaskeerat-kaur-b2227b320) | thejaskeerat@gmail.com
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 
 ![Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)
 ---
