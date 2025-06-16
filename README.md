@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
-<p align="center">
-  ![Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)
-</p>
+
+![Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)
+---
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
