@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://github.com/mdazfar2/Cool-GIFs-For-GitHub/assets/74038190/7f1ce94e-6b11-4fc7-ae10-69cf98d1f0c4" alt="Floating Work Structure" width="600"/>
 </p>
-
+<p align="center">
+  ![Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)
 </p>
 
 ### 🧰 Tech Stack
