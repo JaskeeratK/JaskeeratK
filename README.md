@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://github.com/mdazfar2/Cool-GIFs-For-GitHub/assets/74038190/7f1ce94e-6b11-4fc7-ae10-69cf98d1f0c4" alt="Floating Work Structure" width="600"/>
 </p>
-<p align="center">
- <img src="https://private-user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif" alt="Girly aesthetic" width="300"/>
+
 </p>
+
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
