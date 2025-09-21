@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)
+<!--[Image](https://github.com/user-attachments/assets/af7e2472-65e2-4955-838e-016fb23998a1)-->
 ---
 
 ### 🧰 Tech Stack
