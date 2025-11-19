@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Jaskeerat 👋</h1>
+<h1 align="center">Hi, I'm Jaskeerat </h1>
 <h3 align="center">AI Engineer • ML Developer • Building Intelligent Systems</h3>
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I build intelligent systems that blend **Machine Learning and modern backend engineering**.  
 I love turning research ideas into real-world products — from **RAG pipelines** to **end-to-end ML apps**, and anything involving structured + unstructured data.
 
