@@ -210,3 +210,143 @@ I love turning research ideas into real-world products — from **RAG pipelines*
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskeerat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 
 </div>
+<div align="center">
+
+<!-- Tech Stack Icons at Top -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80" height="80" alt="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
+
+<br/><br/>
+
+# Hello, I'm
+# <span style="color: #58a6ff;">Jaskeerat.</span>
+
+### AI Engineer • ML Developer • Building Intelligent Systems
+
+<br/>
+
+<!-- Card Grid Layout -->
+<table>
+<tr>
+<td width="240">
+  <a href="https://github.com/JaskeeratK?tab=repositories">
+    <img src="https://img.shields.io/badge/Custom_Coverage-28a745?style=flat-square&logo=github&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Custom coverage</b></sub>
+</td>
+<td width="240">
+  <a href="https://circleci.com/">
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>CircleCI builds</b></sub>
+</td>
+<td width="240">
+  <a href="https://hub.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Docker Images</b></sub>
+</td>
+<td width="240">
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Figma design</b></sub>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="https://steamcommunity.com/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Steam ID</b></sub>
+</td>
+<td>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Discord username</b></sub>
+</td>
+<td rowspan="2">
+  <a href="https://github.com/JaskeeratK">
+    <img src="https://github-readme-stats.vercel.app/api?username=JaskeeratK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true" height="260" width="220" />
+  </a>
+  <br/><sub><b>Project Layers</b></sub>
+  <br/><sub><i>Layers showcase</i></sub>
+</td>
+<td>
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Notion sites</b></sub>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="https://www.pinterest.com/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Pinterest pins</b></sub>
+</td>
+<td colspan="2">
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/jaskeerat-kaur">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+  <a href="https://www.linkedin.com/in/jaskeerat-kaur">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="120" width="680" />
+  </a>
+  <br/><sub><b>LinkedIn profile</b></sub>
+</td>
+<td>
+  <a href="https://github.com/JaskeeratK">
+    <img src="https://img.shields.io/badge/Gradle_Plugin-02303A?style=flat-square&logo=gradle&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Gradle Plugin Portal</b></sub>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="mailto:thejaskeerat@gmail.com">
+    <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Proton Mail</b></sub>
+</td>
+<td>
+  <a href="https://pypi.org/">
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" height="120" width="220" />
+  </a>
+  <br/><sub><b>Python Package Index</b></sub>
+</td>
+<td colspan="2" align="center">
+  <br/><br/>
+  <img src="https://img.shields.io/badge/💜-OPEN_SOURCE_SOFTWARE-blueviolet?style=for-the-badge" />
+  <br/><br/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+---
+
+<br/>
+
+### Thanks for stopping by. 👋
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaskeeratK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
+
+<br/>
+
+<sub><b>Most Used Languages</b></sub>  
+<sub>data languages stats</sub>
+
+</div>
