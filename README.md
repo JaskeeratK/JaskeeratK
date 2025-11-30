@@ -37,11 +37,10 @@ I love turning research ideas into real-world products — from **RAG pipelines*
 
 ---
 
-### 📌 Featured Work (Add Your Projects Here)
+### 📌 Featured Work 
 
 - 🔹 **RAG-based Search Engine** — Hybrid search + embeddings with FastAPI  
 - 🔹 **Real-time CV Detection System** — deep learning  
-- 🔹 **ML Model Monitoring Dashboard** — Streamlit + logging + visualizations  
 - 🔹 **Stock Price Forecaster** — ML + time-series preprocessing  
 
 
