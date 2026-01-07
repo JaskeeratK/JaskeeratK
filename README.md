@@ -13,7 +13,7 @@ I love turning research ideas into real-world products — from **RAG pipelines*
 - I enjoy integrating **AI models into production-ready web apps**
 - Ask me about **Python, ML/DL, RAG, and Computer Vision**
 - Connect: **[LinkedIn](https://www.linkedin.com/in/jaskeerat-kaur-b2227b320)** | **thejaskeerat@gmail.com**
-- Portfolio : **[Portfolio](https://jaskeeratk.github.io/portfolio-website/)**
+- Portfolio : **[MyPortfolio](https://jaskeerat.vercel.app/)**
 
 ---
 
