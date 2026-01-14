@@ -6,7 +6,7 @@
 
 ### About Me  
 I build intelligent systems that blend **Machine Learning and modern backend engineering**.  
-I love turning research ideas into real-world products — from **RAG pipelines** to **end-to-end ML apps**, and anything involving structured + unstructured data.
+I love turning research ideas into real-world products from **RAG pipelines** to **end-to-end ML apps**, and anything involving structured + unstructured data.
 
 - Currently exploring **Generative AI and fast inference architectures**
 - Improving at **FastAPI, embeddings, and multi-modal ML**
