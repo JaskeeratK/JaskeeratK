@@ -16,33 +16,7 @@ I love turning research ideas into real-world products — from **RAG pipelines*
 - Portfolio : **[MyPortfolio](https://jaskeerat.vercel.app/)**
 
 ---
-
-### 🧠 Tech & Tools I Work With
-
-#### **Languages & ML**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-#### **Data & Visualization**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-#### **Backend + Deployment**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📌 Featured Work 
-
-- 🔹 **RAG-based Search Engine** — Hybrid search + embeddings with FastAPI  
-- 🔹 **Real-time CV Detection System** — deep learning  
-- 🔹 **Stock Price Forecaster** — ML + time-series preprocessing  
-
+<img width="1298" height="628" alt="Capture" src="https://github.com/user-attachments/assets/10dbd3e7-d356-4970-a1a2-1bec14eb24af" />
 
 ---
 
