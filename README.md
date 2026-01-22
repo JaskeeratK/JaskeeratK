@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi, I'm Jaskeerat </h1>
 <h3 align="center">AI Engineer • ML Developer • Building Intelligent Systems</h3>
+---
+<img width="1298" height="628" alt="Capture" src="https://github.com/user-attachments/assets/10dbd3e7-d356-4970-a1a2-1bec14eb24af" />
 
 ---
 
@@ -11,12 +13,8 @@ I love turning research ideas into real-world products from **RAG pipelines** to
 - Currently exploring **Generative AI and fast inference architectures**
 - Improving at **FastAPI, embeddings, and multi-modal ML**
 - I enjoy integrating **AI models into production-ready web apps**
-- Ask me about **Python, ML/DL, RAG, and Computer Vision**
-- Connect: **[LinkedIn](https://www.linkedin.com/in/jaskeerat-kaur-b2227b320)** | **thejaskeerat@gmail.com**
+- Ask me about **Python, ML/DL, RAG**
 - Portfolio : **[MyPortfolio](https://jaskeerat.vercel.app/)**
-
----
-<img width="1298" height="628" alt="Capture" src="https://github.com/user-attachments/assets/10dbd3e7-d356-4970-a1a2-1bec14eb24af" />
 
 ---
 
