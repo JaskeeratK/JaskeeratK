@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Jaskeerat </h1>
-<h3 align="center">AI Engineer • ML Developer • Building Intelligent Systems</h3>
 
-### About Me  
 Computer Science student.
 
 Interested in systems, structure, and thoughtful design.
