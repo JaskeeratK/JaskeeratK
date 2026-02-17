@@ -7,13 +7,20 @@
 ---
 
 ### About Me  
-I build intelligent systems that blend **Machine Learning and modern backend engineering**.  
-I love turning research ideas into real-world products from **RAG pipelines** to **end-to-end ML apps**, and anything involving structured + unstructured data.
+Computer Science student.
 
-- Currently exploring **Generative AI and fast inference architectures**
-- Improving at **FastAPI, embeddings, and multi-modal ML**
-- I enjoy integrating **AI models into production-ready web apps**
-- Ask me about **Python, ML/DL, RAG**
+Interested in systems, structure, and thoughtful design.
+I work on intelligent systems retrieval, orchestration, forecasting
+where architecture matters as much as accuracy.
+
+Building quietly.
+Improving constantly.
+
+Useful > flashy.
+Original > safe.
+
+Still learning what good software really means.
+
 - Portfolio : **[MyPortfolio](https://jaskeerat.vercel.app/)**
 
 ---
